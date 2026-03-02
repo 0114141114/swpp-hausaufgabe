@@ -2,7 +2,7 @@
 
 ## 1. GitHub Flow
 
-### Zentrale Charakteristika
+### Zentrale Charakteristik
 - Sehr einfach und leichtgewichtig.  
 - Nur ein Hauptbranch (`main`/`master`) und Feature-Branches.  
 - Feature-Branches werden direkt in `main` gemerged, üblicherweise via Pull Request.  
